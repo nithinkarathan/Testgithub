@@ -1,3 +1,2 @@
 # Testgithub
-Repository for testing purpose
-for learning purpose
+Repository for learning purpose
